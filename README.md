@@ -8,7 +8,6 @@ PERF test change
 
 Performance testing section
 
-
-
-
 Git workflow section
+
+Change made directly on GitHub
